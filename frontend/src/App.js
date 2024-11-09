@@ -37,7 +37,7 @@ const App = () => {
       toggleColorMode: () => {
         setMode((prevMode) => {
           const newMode = prevMode === "light" ? "dark" : "light";
-          window.localStorage.setItem("preferredTheme", newMode); // Persistindo o tema no localStorage
+          window.localStorage.setItem("preferredTheme", newMode); 
           return newMode;
         });
       },
@@ -173,11 +173,11 @@ const App = () => {
       });
     getPublicSetting("appName")
       .then((name) => {
-        setAppName(name || "Agilizachat");
+        setAppName(name || "WhaConnect");
       })
       .catch((error) => {
         console.log("!==== Erro ao carregar temas: ====!", error);
-        setAppName("Agilizachat");
+        setAppName("WhaConnect");
       });
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
