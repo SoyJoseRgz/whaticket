@@ -1,0 +1,582 @@
+[
+  {
+    "id": "51925465788@s.whatsapp.net",
+    "name": "Vitorino😎"
+  },
+  {
+    "id": "51943456743@s.whatsapp.net",
+    "name": "Herculio"
+  },
+  {
+    "id": "51950627924@s.whatsapp.net",
+    "name": "Pochis"
+  },
+  {
+    "id": "51930338747@s.whatsapp.net",
+    "name": "Chullo"
+  },
+  {
+    "id": "573005133221@s.whatsapp.net",
+    "name": "Alan Whaclik"
+  },
+  {
+    "id": "51930711471@s.whatsapp.net",
+    "name": "Saulo"
+  },
+  {
+    "id": "51981041287@s.whatsapp.net",
+    "name": "Interaso"
+  },
+  {
+    "id": "51935203332@s.whatsapp.net",
+    "name": "Patricia Contadora"
+  },
+  {
+    "id": "51946716820@s.whatsapp.net",
+    "name": "Wilder Cuarahuasi"
+  },
+  {
+    "id": "51940810022@s.whatsapp.net",
+    "name": "Caudio Urcos"
+  },
+  {
+    "id": "573505193801@s.whatsapp.net",
+    "name": "Angel Colmbia"
+  },
+  {
+    "id": "51978643219@s.whatsapp.net",
+    "name": "Karina MINKA PERU"
+  },
+  {
+    "id": "56930577475@s.whatsapp.net",
+    "name": "Qrhrhhrbrbt"
+  },
+  {
+    "id": "59172531034@s.whatsapp.net",
+    "name": "Bolivi Uap"
+  },
+  {
+    "id": "51955646919@s.whatsapp.net",
+    "name": "Efrain Pumaty"
+  },
+  {
+    "id": "51974333007@s.whatsapp.net",
+    "name": "Susi"
+  },
+  {
+    "id": "51960708616@s.whatsapp.net",
+    "name": "Barman Y Mozo Jose Cusco"
+  },
+  {
+    "id": "51930248827@s.whatsapp.net",
+    "name": "ArturitoPuto"
+  },
+  {
+    "id": "51996142001@s.whatsapp.net",
+    "name": "Director German Cruz"
+  },
+  {
+    "id": "51984617097@s.whatsapp.net",
+    "name": "Elio L"
+  },
+  {
+    "id": "51973532208@s.whatsapp.net",
+    "name": "Dael"
+  },
+  {
+    "id": "51935096980@s.whatsapp.net",
+    "name": "Joel Puma Champi"
+  },
+  {
+    "id": "51932382396@s.whatsapp.net",
+    "name": "Jesus"
+  },
+  {
+    "id": "51984682842@s.whatsapp.net",
+    "name": "Mama De Diego"
+  },
+  {
+    "id": "51983469379@s.whatsapp.net",
+    "name": "IsaMoto😎🧨"
+  },
+  {
+    "id": "51956224743@s.whatsapp.net",
+    "name": "Jesus Urcos Informatica"
+  },
+  {
+    "id": "51939795750@s.whatsapp.net",
+    "name": "Vortex Agencia"
+  },
+  {
+    "id": "5216563399199@s.whatsapp.net",
+    "name": "‎Unknown"
+  },
+  {
+    "id": "51918866002@s.whatsapp.net",
+    "name": "Gimi Minka"
+  },
+  {
+    "id": "51958494125@s.whatsapp.net",
+    "name": "Jimmy Curo KUNAN"
+  },
+  {
+    "id": "51984112433@s.whatsapp.net",
+    "name": "Odilon CruZ"
+  },
+  {
+    "id": "51958956029@s.whatsapp.net",
+    "name": "Juan Carlos Arequipa"
+  },
+  {
+    "id": "51955715757@s.whatsapp.net",
+    "name": "Cucho"
+  },
+  {
+    "id": "51921564575@s.whatsapp.net",
+    "name": "Milton"
+  },
+  {
+    "id": "51902110660@s.whatsapp.net",
+    "name": "Cloente Interesdo"
+  },
+  {
+    "id": "51910665545@s.whatsapp.net",
+    "name": "Cucho"
+  },
+  {
+    "id": "51989576673@s.whatsapp.net",
+    "name": "Jalia Abogada"
+  },
+  {
+    "id": "51959744163@s.whatsapp.net",
+    "name": "Notma Tambo"
+  },
+  {
+    "id": "51931007998@s.whatsapp.net",
+    "name": "Edhison"
+  },
+  {
+    "id": "51942309777@s.whatsapp.net",
+    "name": "Minka Peru Travel"
+  },
+  {
+    "id": "51994341874@s.whatsapp.net",
+    "name": "Dj Steve Hypnotic"
+  },
+  {
+    "id": "51963034988@s.whatsapp.net",
+    "name": "Interesado Crm"
+  },
+  {
+    "id": "51954720249@s.whatsapp.net",
+    "name": "Samuel"
+  },
+  {
+    "id": "51974218220@s.whatsapp.net",
+    "name": "Marco Motero"
+  },
+  {
+    "id": "51975969238@s.whatsapp.net",
+    "name": "Adoctado"
+  },
+  {
+    "id": "51927000700@s.whatsapp.net",
+    "name": "Milton"
+  },
+  {
+    "id": "51927150241@s.whatsapp.net",
+    "name": "Rolo Compa Informatica"
+  },
+  {
+    "id": "51986801973@s.whatsapp.net",
+    "name": "Clarines Paqo"
+  },
+  {
+    "id": "56233048905@s.whatsapp.net",
+    "name": "Global"
+  },
+  {
+    "id": "51914854044@s.whatsapp.net",
+    "name": "Arquitocto"
+  },
+  {
+    "id": "51950749824@s.whatsapp.net",
+    "name": "Saul Cantoral"
+  },
+  {
+    "id": "51954571164@s.whatsapp.net",
+    "name": "Jose Pillco Profesosor"
+  },
+  {
+    "id": "51994900101@s.whatsapp.net",
+    "name": "Gadriana"
+  },
+  {
+    "id": "13143331111@s.whatsapp.net",
+    "name": "Jorgito- EduBot"
+  },
+  {
+    "id": "51986292378@s.whatsapp.net",
+    "name": "Anabel"
+  },
+  {
+    "id": "51983042937@s.whatsapp.net",
+    "name": "Compa Calculo 1"
+  },
+  {
+    "id": "51930913410@s.whatsapp.net",
+    "name": "Pedro Lopes Periodista Radio La Hora"
+  },
+  {
+    "id": "51991311813@s.whatsapp.net",
+    "name": "Mila"
+  },
+  {
+    "id": "51935436864@s.whatsapp.net",
+    "name": "Carlos"
+  },
+  {
+    "id": "51974204258@s.whatsapp.net",
+    "name": "Pilar coronado"
+  },
+  {
+    "id": "51915196655@s.whatsapp.net",
+    "name": "Quiquijana De Area De Informatica"
+  },
+  {
+    "id": "51950464407@s.whatsapp.net",
+    "name": "Tio De Flor Efra"
+  },
+  {
+    "id": "51955077753@s.whatsapp.net",
+    "name": "Cliente"
+  },
+  {
+    "id": "51915374347@s.whatsapp.net",
+    "name": "MUKY TV CUSCO"
+  },
+  {
+    "id": "51955017200@s.whatsapp.net",
+    "name": "Isa Motos"
+  },
+  {
+    "id": "51993862663@s.whatsapp.net",
+    "name": "Miguel"
+  },
+  {
+    "id": "51976367277@s.whatsapp.net",
+    "name": "Cesara Rrpp Huarao"
+  },
+  {
+    "id": "51984230804@s.whatsapp.net",
+    "name": "Rene Garcia Aa"
+  },
+  {
+    "id": "593982705363@s.whatsapp.net",
+    "name": "Dhhf"
+  },
+  {
+    "id": "51979520350@s.whatsapp.net",
+    "name": "Roberto Paqo"
+  },
+  {
+    "id": "51991586886@s.whatsapp.net",
+    "name": "Contreras Nuevo Numero"
+  },
+  {
+    "id": "51993414727@s.whatsapp.net",
+    "name": "Illanes Materiales"
+  },
+  {
+    "id": "51931632807@s.whatsapp.net",
+    "name": "Antonny Hermano De Mila"
+  },
+  {
+    "id": "51933714412@s.whatsapp.net",
+    "name": "Jesus Atoq Ñan Vp"
+  },
+  {
+    "id": "51928386779@s.whatsapp.net",
+    "name": "Compañera"
+  },
+  {
+    "id": "51980749554@s.whatsapp.net",
+    "name": "Soledad"
+  },
+  {
+    "id": "51942306780@s.whatsapp.net",
+    "name": "Lino Perro"
+  },
+  {
+    "id": "573102823882@s.whatsapp.net",
+    "name": "Tatiana 🫶 Colombia"
+  },
+  {
+    "id": "51985416813@s.whatsapp.net",
+    "name": "Edhit Quiquijana"
+  },
+  {
+    "id": "51917005570@s.whatsapp.net",
+    "name": "Motta"
+  },
+  {
+    "id": "51947797075@s.whatsapp.net",
+    "name": "Anita"
+  },
+  {
+    "id": "51982844855@s.whatsapp.net",
+    "name": "Cuevita"
+  },
+  {
+    "id": "51935319477@s.whatsapp.net",
+    "name": "Kiritos Puno"
+  },
+  {
+    "id": "51952761400@s.whatsapp.net",
+    "name": "Compra Sistema Facturación"
+  },
+  {
+    "id": "51935289120@s.whatsapp.net",
+    "name": "Magaña Unsaac"
+  },
+  {
+    "id": "51993814985@s.whatsapp.net",
+    "name": "Consejero Regional Eulogio"
+  },
+  {
+    "id": "51957038062@s.whatsapp.net",
+    "name": "Illanes Matriales"
+  },
+  {
+    "id": "51958111106@s.whatsapp.net",
+    "name": "Multi M@x"
+  },
+  {
+    "id": "51984227906@s.whatsapp.net",
+    "name": "Greyssy Clv"
+  },
+  {
+    "id": "51989103926@s.whatsapp.net",
+    "name": "Quien Sera"
+  },
+  {
+    "id": "51993029250@s.whatsapp.net",
+    "name": "Sixto Alcalde Quiquijana"
+  },
+  {
+    "id": "51980538244@s.whatsapp.net",
+    "name": "Walter Qaqapuncu"
+  },
+  {
+    "id": "51942040328@s.whatsapp.net",
+    "name": "Angelacha"
+  },
+  {
+    "id": "51976262320@s.whatsapp.net",
+    "name": "Anamaria Honda"
+  },
+  {
+    "id": "51953594381@s.whatsapp.net",
+    "name": "Machasca"
+  },
+  {
+    "id": "51940249192@s.whatsapp.net",
+    "name": "Yovana Chuco"
+  },
+  {
+    "id": "51963319082@s.whatsapp.net",
+    "name": "Isabel Chocolates"
+  },
+  {
+    "id": "51937372196@s.whatsapp.net",
+    "name": "Leonidas Gps Feria"
+  },
+  {
+    "id": "51925953541@s.whatsapp.net",
+    "name": "Wislon Qaureño"
+  },
+  {
+    "id": "51921936702@s.whatsapp.net",
+    "name": "Brayan Zapana"
+  },
+  {
+    "id": "51950719756@s.whatsapp.net",
+    "name": "#Paraganarhayquecreer ⚽⚽"
+  },
+  {
+    "id": "573013921553@s.whatsapp.net",
+    "name": "Yinna Paola Whatclik ColombiA"
+  },
+  {
+    "id": "51929525253@s.whatsapp.net",
+    "name": "Sterth Ex Compañera Cole"
+  },
+  {
+    "id": "51969161191@s.whatsapp.net",
+    "name": "H"
+  },
+  {
+    "id": "51915137903@s.whatsapp.net",
+    "name": "SATELITAL SECURITY SAC"
+  },
+  {
+    "id": "51925529438@s.whatsapp.net",
+    "name": "Omar Hinojosa Canal Cusco"
+  },
+  {
+    "id": "51910636313@s.whatsapp.net",
+    "name": "loco"
+  },
+  {
+    "id": "51900060862@s.whatsapp.net",
+    "name": "Iziapy"
+  },
+  {
+    "id": "51917417103@s.whatsapp.net",
+    "name": "Abel Huaro"
+  },
+  {
+    "id": "51974262605@s.whatsapp.net",
+    "name": "Benito Huillca"
+  },
+  {
+    "id": "51983035954@s.whatsapp.net",
+    "name": "Llamocca"
+  },
+  {
+    "id": "51982777176@s.whatsapp.net",
+    "name": "Jesus Callata Muni Urcos"
+  },
+  {
+    "id": "51916844342@s.whatsapp.net",
+    "name": "Siscilio Agua Quiquijana"
+  },
+  {
+    "id": "51974373285@s.whatsapp.net",
+    "name": "Edison Provedor Amigo De Franklin"
+  },
+  {
+    "id": "51958311113@s.whatsapp.net",
+    "name": "Teo"
+  },
+  {
+    "id": "51946586409@s.whatsapp.net",
+    "name": "Jansen Cliente Vps"
+  },
+  {
+    "id": "51987463601@s.whatsapp.net",
+    "name": "Zonia Pary López Marcapata"
+  },
+  {
+    "id": "51974310735@s.whatsapp.net",
+    "name": "Mateo Quiquijana"
+  },
+  {
+    "id": "51988511595@s.whatsapp.net",
+    "name": "Kevincha"
+  },
+  {
+    "id": "51935094991@s.whatsapp.net",
+    "name": "Franz"
+  },
+  {
+    "id": "51969718551@s.whatsapp.net",
+    "name": "Julio Checacupe"
+  },
+  {
+    "id": "51929521377@s.whatsapp.net",
+    "name": "Luscha Yanacara"
+  },
+  {
+    "id": "51984652522@s.whatsapp.net",
+    "name": "Sr. David"
+  },
+  {
+    "id": "51963706810@s.whatsapp.net",
+    "name": "Tio Sebas Taxi"
+  },
+  {
+    "id": "51984619963@s.whatsapp.net",
+    "name": "Acuña Padrino De Pic"
+  },
+  {
+    "id": "51988214818@s.whatsapp.net",
+    "name": "Henrry CUSCO VISON TV"
+  },
+  {
+    "id": "51900679882@s.whatsapp.net",
+    "name": "Urbano"
+  },
+  {
+    "id": "51984702003@s.whatsapp.net",
+    "name": "Juan Aquino Challco"
+  },
+  {
+    "id": "51929639313@s.whatsapp.net",
+    "name": "Joel Puma Champi"
+  },
+  {
+    "id": "51925839746@s.whatsapp.net",
+    "name": "Hugo Velasques"
+  },
+  {
+    "id": "51930259716@s.whatsapp.net",
+    "name": "Richin Atoq Ñan"
+  },
+  {
+    "id": "51955240773@s.whatsapp.net",
+    "name": "Dr Julio Caira"
+  },
+  {
+    "id": "51977307806@s.whatsapp.net",
+    "name": "Giancarlo PMP"
+  },
+  {
+    "id": "51984745895@s.whatsapp.net",
+    "name": "Richard Melo Quiquijana"
+  },
+  {
+    "id": "51939920797@s.whatsapp.net",
+    "name": "Yape Hermano Isa"
+  },
+  {
+    "id": "51997801982@s.whatsapp.net",
+    "name": "Elber Climaco Informatica Oropeza"
+  },
+  {
+    "id": "51964174055@s.whatsapp.net",
+    "name": "Quien Es ?"
+  },
+  {
+    "id": "51973271493@s.whatsapp.net",
+    "name": "Amigo De Reberto"
+  },
+  {
+    "id": "51953474363@s.whatsapp.net",
+    "name": "Eloy Hermano De Gaby"
+  },
+  {
+    "id": "51921040819@s.whatsapp.net",
+    "name": "FrankliN"
+  },
+  {
+    "id": "51991463562@s.whatsapp.net",
+    "name": "Mozo Anthony"
+  },
+  {
+    "id": "51950957044@s.whatsapp.net",
+    "name": "Eloy 3"
+  },
+  {
+    "id": "51958352403@s.whatsapp.net",
+    "name": "Julio César. Curahuasi"
+  },
+  {
+    "id": "51932608294@s.whatsapp.net",
+    "name": "Papa De Pochis"
+  },
+  {
+    "id": "51942727873@s.whatsapp.net",
+    "name": "Gorki Alacalde De Curahuasi"
+  }
+]
