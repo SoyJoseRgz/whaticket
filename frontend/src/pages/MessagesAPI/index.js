@@ -65,7 +65,15 @@ const MessagesAPI = () => {
 
   const handleSendTextMessage = async (values) => {
     const { number, body, userId, queueId } = values;
-    const data = { number, body, userId, queueId };
+  
+    // Construye el objeto data excluyendo `userId` si está vacío o no definido
+    const data = {
+      number,
+      body,
+      queueId,
+      ...(userId && { userId }), // Agrega userId solo si tiene un valor
+    };
+  
     try {
       await axios.request({
         url: getEndpoint(),
@@ -73,14 +81,15 @@ const MessagesAPI = () => {
         data,
         headers: {
           'Content-type': 'application/json',
-          'Authorization': `Bearer ${values.token}` 
+          'Authorization': `Bearer ${values.token}`
         }
-      })
+      });
       toast.success('Mensagem enviada com sucesso');
     } catch (err) {
       toastError(err);
     }
-  }
+  };
+  
 
   const handleSendMediaMessage = async (values) => {
     try {
