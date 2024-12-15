@@ -13,8 +13,8 @@ module.exports = {
       if (!userExists) {
         const passwordHash = await hash("123456", 8);
         return queryInterface.bulkInsert('Users', [{
-          name: "Whasapo",
-          email: "admin@whasapo.com",
+          name: "Jose Eduardo R.",
+          email: "admin@whaconnect.com.mx",
           profile: "admin",
           passwordHash,
           companyId: 1,

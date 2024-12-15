@@ -33,7 +33,7 @@ module.exports = {
 
       if (!companyExists) {
         await queryInterface.bulkInsert("Companies", [{
-          name: "Empresa 1",
+          name: "WhaConnect",
           planId: 1,
           createdAt: new Date(),
           updatedAt: new Date()
